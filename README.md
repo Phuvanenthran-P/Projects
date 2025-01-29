@@ -34,7 +34,7 @@ AI Tools: ChatGPT, Claude, Cohere
 
 📬 Contact
 
-LinkedIn: https://www.linkedin.com/in/phuvanenthran-p-316a53287/
+LinkedIn: https://www.linkedin.com/in/phuvanenthran-p-316a53287
 
 GitHub: https://github.com/Phuvanenthran-P/Projects/edit/main/README.md](https://github.com/Phuvanenthran-P/Projects
 
