@@ -36,7 +36,7 @@ Correlation heatmaps
 
 Interactive scatter and pie charts
 
-Repository Link: Phone Usage Analytics Dashboard
+Repository Link: [Phone Usage Analytics Dashboard](https://github.com/Phuvanenthran-P/Projects/blob/main/Phone_Usage_Analysis.ipynb)
 
 📚 Skills & Tools
 
@@ -47,9 +47,11 @@ Cloud: AWS (Certified Cloud Practitioner)
 
 💌 Contact
 
-LinkedIn: https://www.linkedin.com/in/phuvanenthran-p-316a53287
-GitHub: https://github.com/Phuvanenthran-P/Projects
-Email: phuvan0205@gmail.com
+LinkedIn: [Phuvanenthran-P](https://www.linkedin.com/in/phuvanenthran-p-316a53287)
+
+GitHub: [phuvanenthran-P](https://github.com/Phuvanenthran-P/Projects)
+
+Email: [phuvan0205@gmail.com](phuvan0205@gmail.com)
 
 Feel free to explore, fork, and contribute! 🚀
 
