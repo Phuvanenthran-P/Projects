@@ -47,8 +47,8 @@ Cloud: AWS (Certified Cloud Practitioner)
 
 💌 Contact
 
-LinkedIn: Phuvanenthran P
-GitHub: Phuvanenthran-P
+LinkedIn: [https://www.linkedin.com/in/phuvanenthran-p-316a53287](Phuvanenthran P)
+GitHub: [https://github.com/Phuvanenthran-P/Projects] (Phuvanenthran-P)
 Email: phuvan0205@gmail.com
 
 Feel free to explore, fork, and contribute! 🚀
