@@ -18,7 +18,7 @@ SMA & EMA trend analysis
 
 Interactive data visualization
 
-Repository Link: Real-Time Stock Market Dashboard
+Repository Link: [Real-Time Stock Market Dashboard](https://github.com/Phuvanenthran-P/Projects/blob/main/Real_Time_Stock_Market_Dashboard.ipynb)
 
 Phone Usage Analytics Dashboard 📱
 
